@@ -14,7 +14,7 @@ sudo python ./ryu/bin/ryu-manager --ofp-tcp-listen-port 6643 ryu/ryu/app/Control
 sudo python ./ryu/bin/ryu-manager --ofp-tcp-listen-port 6634 ryu/ryu/app/ControllerB.py | tee log2.txt
 	   
 3. Run the custom topology
-sudo python custTopology.py
+sudo python custTopo.py
 
 Vitim and protected nodes are A1h1 and A2h2
 
