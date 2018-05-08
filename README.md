@@ -3,8 +3,7 @@
 This repo is for a python based SDN RYU controllers that can detect a DDoS attack on target hosts and mitigate the attack by limiting the bandwidth between the target and the attacker node.
 
 Team Members - 
-Mrinali More
-Pranati Kulkarni
+Mrinali More and Pranati Kulkarni
 
 
 Instructions- 
